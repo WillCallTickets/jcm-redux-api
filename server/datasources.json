@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mysql": {
+    "host": "mysqlDb",
+    "port": 3306,
+    "database": "strongroot",
+    "password": "strongpwd123",
+    "name": "mysql",
+    "connector": "mysql",
+    "user": "stronguser"
+  }
+}
